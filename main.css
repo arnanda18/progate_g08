@@ -1,0 +1,29 @@
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.upper {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 80px;
+  text-align: center;
+}
+
+.btn-upper {
+	padding-top:10px;
+}
+
+span {
+  padding: 15px 40px;
+  background-color: blue;
+  cursor: pointer;
+  box-shadow: 0 7px yellow;
+  border-radius:6px;
+}
+
+span:active {
+  position: relative;
+  top: 7px;
+  box-shadow: none;
+}
