@@ -1,13 +1,10 @@
 @media all and (max-width: 1000px) {
-  .upper h1 {
-    height: 50px;
+  .upper {
+    height: 50vh;
   }
 }
 @media all and (max-width: 670px) {
-  .container {
-	  padding-top:180px;
-  }
   .upper p {
-    font-size: 20px;
+    	font-size: 20px;
     }
 }
