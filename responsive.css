@@ -1,0 +1,13 @@
+@media all and (max-width: 1000px) {
+  .upper h1 {
+    height: 50px;
+  }
+}
+@media all and (max-width: 670px) {
+  .upper {
+	  height:30vh;
+  }
+  .upper p {
+    font-size: 20px;
+    }
+}
