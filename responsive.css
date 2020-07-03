@@ -4,8 +4,8 @@
   }
 }
 @media all and (max-width: 670px) {
-  .upper {
-	  height:30vh;
+  .container {
+	  padding-top:180px;
   }
   .upper p {
     font-size: 20px;
